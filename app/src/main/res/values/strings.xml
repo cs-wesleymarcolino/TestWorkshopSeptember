@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestWorkshopSeptember</string>
+    <string name="password">Password</string>
+    <string name="error_email_is_empty">Empty email</string>
+    <string name="error_password_is_empty">Empty password</string>
+    <string name="error_invalid_password">Invalid password</string>
+    <string name="home_message">Homescreen</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+</resources>
